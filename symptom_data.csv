@@ -1,0 +1,9 @@
+enfermedad,apetito,ardor,cojera,comportamiento,convulsiones,debilidad,dolor,estornudos,fiebre,heces,heridas,jadeo,ladridos,oidos,ojos,paralisis,pelaje,picazon,sangrado,tos,vomito
+Pulgas,normal,si,no,inquieto,no,no,no,no,no,normal,no,no,normal,normal,normal,no,con insectos,intensa,no,no,no
+Garrapatas,normal,si,no,inquieto,no,si,no,no,no,normal,si,no,normal,normal,normal,si,con insectos,intensa,si,no,no
+Otitis,normal,si,no,inquieto,no,no,no,no,baja,normal,no,no,normal,con olor,normal,no,normal,intensa,no,no,no
+Sarna,leve,si,no,decaído,no,si,no,no,no,normal,si,no,normal,normal,normal,no,con caídas severas,intensa,si,no,no
+Rabia,normal,no,no,nervioso,si,no,en las extremidades,no,baja,normal,no,no,normal,normal,normal,si,normal,no,no,no,no
+Moquillo,normal,si,no,nervioso,si,si,abdominal,si,alta,normal,no,si,normal,con temperatura,con pus,si,normal,normal,no,si,si
+Gastritis,leve,no,si,apático,no,si,abdominal,no,no,normal,no,no,normal,normal,normal,no,normal,no,si,no,si
+Artrosis,normal,no,si,normal,no,no,en las extremidades,no,no,normal,no,si,más de lo normal,normal,normal,no,normal,no,no,no,no
